@@ -23,5 +23,5 @@
   "include": [
     "src",
     "component"
-, "pages/Index.tsx"  ]
+, "src/pages/Index.tsx"  ]
 }
