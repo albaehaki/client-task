@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import Index from "./component/Index";
+import Index from "../pages/Index";
 
 function App() {
   return (
-    <div className="bg-[#050414] bg-slate-500 h-screen">
+    <div className="bg-[#050414] h-screen">
       <Index />
     </div>
   );
