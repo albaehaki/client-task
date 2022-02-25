@@ -2,7 +2,7 @@ import React from "react";
 
 function Index() {
   return (
-    <div className="grid bg-[#050414] bg-slate-500 h-screen">
+    <div className="grid bg-[#050414] h-screen">
       <div className="m-auto grid w-screen">
         <form className="grid m-auto md:w-[35%] w-[80%] grid-flow-row gap-10">
           <input
@@ -16,7 +16,7 @@ function Index() {
             placeholder="Silakan Masukan password"
           />
           <button
-            className="bg-green-500 grid grid-flow-col py-3 px-2 rounded-lg m-auto w-1/4 text-[#A5A3AE] bg-[#EAEAED] bg-opacity-20 border-[#A5A3AE] border-[1px]"
+            className=" grid grid-flow-col py-3 px-2 rounded-lg m-auto w-1/4 text-[#A5A3AE] bg-[#EAEAED] bg-opacity-20 border-[#A5A3AE] border-[1px]"
             type="submit"
           >
             <p>Masuk</p>
